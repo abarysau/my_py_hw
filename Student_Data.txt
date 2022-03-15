@@ -1,0 +1,4 @@
+Andrew Ivanov     1.5
+Anna Karienina    15.5
+John Smith        7.5
+Andrew Ivanov     3
