@@ -1,0 +1,21 @@
+{
+  "menu": [ 
+    {
+      "pizza_name": "margherita", 
+      "pizza_size": ["small", "medium", "big"]
+    },
+    {
+      "pizza_name": "marinara", 
+      "pizza_size": ["small", "big"]
+    },
+    {
+      "pizza_name": "carbonara", 
+      "pizza_size": ["medium"]
+    },
+    {
+      "pizza_name": "neapolitana", 
+      "pizza_size": ["small","medium"]
+    }
+
+  ]
+}
